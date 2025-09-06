@@ -22,7 +22,7 @@ avatar_image: /img/Headshot(2).png
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/phillipgj/" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/phillipgj/" # Add your linkedln handle
 github: "https://pgj-co.github.io/"  # Add your github handle
 
 paginate: 6
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
