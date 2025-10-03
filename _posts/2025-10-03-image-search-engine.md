@@ -17,7 +17,7 @@ In this project we build a Deep Learning based Image Search Engine that will hel
 - [01. Sample Data Overview](#sample-data-overview)
 - [02. Transfer Learning Overview](#transfer-learning-overview)
 - [03. Setting Up VGG16](#vgg16-setup)
-- [04. Image Preprocessing & Featurisation](#image-preprocessing)
+- [04. Image Preprocessing & Featurization](#image-preprocessing)
 - [05. Execute Search](#execute-search)
 - [06. Discussion, Growth & Next Steps](#growth-next-steps)
 
@@ -469,5 +469,6 @@ This was tested only in one category, we would want to test on a broader array o
 We only looked at Cosine Similarity here, it would be interesting to investigate other distance metrics.
 
 It would be beneficial to come up with a way to quantify the quality of the search results.  This could come from customer feedback, or from click-through rates on the site.
+
 
 Here we utilised VGG16. It would be worthwhile testing other available pre-trained networks such as ResNet, Inception, and the DenseNet networks.
